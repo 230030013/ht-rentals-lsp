@@ -1,0 +1,13 @@
+{
+    "name": "lsp/ht-rental",
+    "description": "OOP HT Rental System",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
